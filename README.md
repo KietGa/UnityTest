@@ -10,4 +10,6 @@
 
 4. Code và Logic đã được giải thích trong video
 
+5. Anh chị bắt đầu chơi từ scene "Menu"
+
 Cảm ơn anh chị đã đọc ạ
