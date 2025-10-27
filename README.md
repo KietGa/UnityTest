@@ -1,5 +1,6 @@
 # UnityTest - Nguyen Tuan Kiet 
-# Editor Version: 2023.2.20f1
+# Editor Version: 2023.2.20f1 (Since version 2020.3.38f1 error)
+# Record: https://drive.google.com/drive/folders/1iaSD_9S64lSgXyGdBaColCSdkotiwr6Z?usp=sharing
 
 1. Thêm 5 Scripts trong folder Intern
 
