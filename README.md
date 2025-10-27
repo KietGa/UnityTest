@@ -12,4 +12,4 @@
 
 5. Anh chị bắt đầu chơi từ scene "Menu"
 
-Cảm ơn anh chị đã đọc ạ
+6. Cảm ơn anh chị đã đọc ạ
